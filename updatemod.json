@@ -1,0 +1,37 @@
+{
+        "homepage": "https://modrinth.com/mod/the-age-of-being/versions",
+        "promos": {
+                "1.20.1-latest": "0.2.0",
+                "1.20.1-recommended": "0.2.0",
+                "1.19.4-latest": "0.2.0",
+                "1.19.4-recommended": "0.2.0",
+                "1.19.2-latest": "0.2.0",
+                "1.19.2-recommended": "0.2.0",
+                "1.18.2-latest": "0.2.0",
+                "1.18.2-recommended": "0.2.0"
+        },
+        "1.20.1": {
+                "0.0": "Updated vanilla recipes, a new tool and recipes for some non-created items",
+                "0.1": "The tool from the previous version has been changed, 2 new tools have been added and the process of creating vanilla elements has been changed.",
+                "0.1.5": "A new tool has been added, the recipe for making glass has been changed",
+                "0.2.0": "Updated elements of previous versions, added a copper sword"
+        },
+        "1.19.4": {
+                "0.0": "Updated vanilla recipes, a new tool and recipes for some non-created items",
+                "0.1": "The tool from the previous version has been changed, 2 new tools have been added and the process of creating vanilla elements has been changed.",
+                "0.1.5": "A new tool has been added, the recipe for making glass has been changed",
+                "0.2.0": "Updated elements of previous versions, added a copper sword"
+        },
+        "1.19.2": {
+                "0.0": "Updated vanilla recipes, a new tool and recipes for some non-created items",
+                "0.1": "The tool from the previous version has been changed, 2 new tools have been added and the process of creating vanilla elements has been changed.",
+                "0.1.5": "A new tool has been added, the recipe for making glass has been changed",
+                "0.2.0": "Updated elements of previous versions, added a copper sword"
+        },
+        "1.18.2": {
+                "0.0": "Updated vanilla recipes, a new tool and recipes for some non-created items",
+                "0.1": "The tool from the previous version has been changed, 2 new tools have been added and the process of creating vanilla elements has been changed.",
+                "0.1.5": "A new tool has been added, the recipe for making glass has been changed",
+                "0.2.0": "Updated elements of previous versions, added a copper sword"
+        }
+}
